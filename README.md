@@ -1,6 +1,6 @@
 # FOIA Basics: Requesting Public Records
-
-These are materials for an introductory workshop on public records requests held at UCR Library on March 1, 2019 as part of [https://endangereddataweek.org/](Endangered Data Week), facilitated by Noah Geraci.
+ 
+These are materials for an introductory workshop on public records requests held at UC Riverside Library on March 1, 2019 as part of [Endangered Data Week](https://endangereddataweek.org/), facilitated by Noah Geraci.
 
 ## Workshop summary
 
